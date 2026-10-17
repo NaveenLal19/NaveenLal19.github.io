@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://naveenlal19.github.io/sitemap.xml
